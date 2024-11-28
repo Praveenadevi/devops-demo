@@ -1,0 +1,7 @@
+C:\Users\prave\source\repos\devops-demo\devops-demo\bin\Debug\devops-demo.exe.config
+C:\Users\prave\source\repos\devops-demo\devops-demo\bin\Debug\devops-demo.exe
+C:\Users\prave\source\repos\devops-demo\devops-demo\bin\Debug\devops-demo.pdb
+C:\Users\prave\source\repos\devops-demo\devops-demo\obj\Debug\devops-demo.csproj.AssemblyReference.cache
+C:\Users\prave\source\repos\devops-demo\devops-demo\obj\Debug\devops-demo.csproj.CoreCompileInputs.cache
+C:\Users\prave\source\repos\devops-demo\devops-demo\obj\Debug\devops-demo.exe
+C:\Users\prave\source\repos\devops-demo\devops-demo\obj\Debug\devops-demo.pdb
